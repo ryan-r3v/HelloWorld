@@ -1,3 +1,4 @@
 # HelloWorld
 
-Developed with Unreal Engine 4
+* Authored by Ryan Varner
+* Quick introduction to Unreal Engine 4 and its basic toolsets
